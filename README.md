@@ -142,9 +142,7 @@ me.sayHi();
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
-### 🌟 Show some ❤️ by starring some of my repositories!
-
-**صُنع بـ ❤️ في العراق 🇮🇶**
+---
 
 *"The best way to predict the future is to invent it." - Alan Kay*
 
