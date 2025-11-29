@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=xgolo70-cloud&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Iraq%20🇮🇶&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F2FF,BD00FF,0D1117&height=220&section=header&text=xgolo70-cloud&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20Iraq%20🇮🇶&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
@@ -34,7 +34,7 @@ class Developer {
     
     currentFocus: string = "Building Iraqi Nerds Platform";
     
-    funFact: string = "أحب البرمجة والشاي وحسن المظهر 🍵💻✨";
+    funFact: string = "أحب البرمجة والشاي! 🍵💻";
     
     sayHi(): void {
         console.log("Thanks for visiting! Let's build something amazing together! 🚀");
