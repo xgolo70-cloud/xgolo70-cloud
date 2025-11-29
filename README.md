@@ -34,7 +34,7 @@ class Developer {
     
     currentFocus: string = "Building Iraqi Nerds Platform";
     
-    funFact: string = "أحب البرمجة والقهوة بنفس القدر! ☕💻";
+    funFact: string = "أحب البرمجة والشاي وحسن المظهر 🍵💻✨";
     
     sayHi(): void {
         console.log("Thanks for visiting! Let's build something amazing together! 🚀");
